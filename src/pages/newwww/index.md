@@ -1,9 +1,10 @@
 ---
 
-title: Hello New Blog
+title: Gosia is testing new stuff
 
-date: "2018–04–16T23:46:37.121Z"
+date: "1983-11-83"
 
 ---
 
-Hello World
+Hello. How are you Blah blah blah.
+Just added travis and wonder if it is working
